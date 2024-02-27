@@ -5,3 +5,6 @@
 [submodule "chihaya"]
 	path = chihaya
 	url = https://github.com/artifactdb/chihaya-r
+[submodule "gypsum"]
+	path = gypsum
+	url = https://github.com/artifactdb/gypsum-r
